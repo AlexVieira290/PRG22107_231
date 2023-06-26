@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/csv">
+        <file>Paises.csv</file>
+        <file>Duck1.PNG</file>
+        <file>Duck2.PNG</file>
+        <file>1A.PNG</file>
+        <file>1B.PNG</file>
+        <file>1C.PNG</file>
+        <file>1D.PNG</file>
+        <file>2A.PNG</file>
+        <file>2B.PNG</file>
+        <file>2C.PNG</file>
+        <file>2D.PNG</file>
+        <file>3A.PNG</file>
+        <file>3B.PNG</file>
+        <file>3C.PNG</file>
+        <file>3D.PNG</file>
+        <file>4A.PNG</file>
+        <file>4B.PNG</file>
+        <file>4C.PNG</file>
+        <file>4D.PNG</file>
+        <file>5A.PNG</file>
+        <file>5B.PNG</file>
+        <file>5C.PNG</file>
+        <file>5D.PNG</file>
+        <file>6A.PNG</file>
+        <file>6B.PNG</file>
+        <file>6C.PNG</file>
+        <file>6D.PNG</file>
+        <file>7A.PNG</file>
+        <file>7B.PNG</file>
+        <file>7C.PNG</file>
+        <file>7D.PNG</file>
+        <file>8A.PNG</file>
+        <file>8B.PNG</file>
+        <file>8C.PNG</file>
+        <file>8D.PNG</file>
+        <file>PaisesDebug.csv</file>
+        <file>Paises.txt</file>
+    </qresource>
+</RCC>
